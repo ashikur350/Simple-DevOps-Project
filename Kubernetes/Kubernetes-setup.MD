@@ -4,7 +4,7 @@
 1. Create Ubuntu EC2 instance
 1. install AWSCLI
 ---->  sudo apt update
------> Sudo apt install awscli
+-----> sudo apt install awscli
    ```sh
     curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
     apt install unzip python
